@@ -13,9 +13,7 @@
 
 - 📫 How to reach me **srivathsavkyatham@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<img align="right" width="400" src="https://media.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif?cid=790b7611rjhk4191diksei4fyshkm2mtw3wxfzy9hvt8eydd&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="coding">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
