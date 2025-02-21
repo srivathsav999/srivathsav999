@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Full stack dev**
 
-- 👯 I’m looking to collaborate on **Server development platform**
-
 - 💬 Ask me about **react, javascript, c++, c, swift, blender**
 
 - 📫 How to reach me **srivathsavkyatham@gmail.com**
