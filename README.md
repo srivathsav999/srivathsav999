@@ -24,6 +24,3 @@
 </p>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srivathsav999&show_icons=true&locale=en&layout=compact" alt="srivathsav999" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srivathsav999&show_icons=true&locale=en" alt="srivathsav999" /></p>
