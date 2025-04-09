@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **srivathsavkyatham@gmail.com**
 
-<img align="right" width="400" src="[https://media.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif?cid=790b7611rjhk4191diksei4fyshkm2mtw3wxfzy9hvt8eydd&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmpoazQxOTFkaWtzZWk0ZnlzaGttMm10dzN3eGZ6eTlodnQ4ZXlkZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif)" alt="coding">
-
 <div padding-bottom = "50">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
